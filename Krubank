@@ -834,14 +834,7 @@ body#layout #vtrick-pro-cta2-section > h4:after{content:' - Right Call to Action
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='1' name='Header ADS' showaddelement='yes'>
         <b:widget id='HTML1' locked='false' title='หัว' type='HTML' version='2' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGUTpE0wvE/RWYIsTUFyJ3ZkGvPI-uG0A/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGUTpE0wvE&#x2F;RWYIsTUFyJ3ZkGvPI-uG0A&#x2F;watch?utm_content=DAGUTpE0wvE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Google</a> โดย จิรพิพัฒน์ พะสุรัมย์]]></b:widget-setting>
+            <b:widget-setting name='content'/>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
